@@ -1,5 +1,6 @@
 # Letter of Credit - Solidity Smart Contract
 
+
 A Solidity implementation of a Letter of Credit agreement between an issuing bank and an exporter. This contract allows secure handling of trade documents, conditional validation, and final contract approval on the Ethereum blockchain.
 
 This code was developed for a Master's Degree project about Blockchain in International Commerce (https://openaccess.uoc.edu/bitstream/10609/146956/3/tribabTFM0622memoria.pdf)
